@@ -13,6 +13,7 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
+
 def pascal_triangle(n):
     """
     This gives a pascals triangle
