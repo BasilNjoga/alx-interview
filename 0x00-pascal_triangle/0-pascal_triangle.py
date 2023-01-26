@@ -13,7 +13,6 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
-if __name__ == "__main__":
 def pascal_triangle(n):
     """
     This gives a pascals triangle
