@@ -18,7 +18,7 @@ def pascal_triangle(n):
     """
     This gives a pascals triangle
     """
-    mylist = [[]]
+    mylist = []
     if n <= 0:
         return mylist
     mylist = []
