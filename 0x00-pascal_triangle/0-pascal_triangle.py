@@ -6,9 +6,7 @@ from math import factorial
 
 
 def pascal_triangle(n):
-    mylist = []
-    if n <= 0:
-        return mylist
+    mylist = [[]]
     for j in range(n):
         new = []
         for i in range(j+1):
