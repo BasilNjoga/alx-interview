@@ -12,7 +12,7 @@ def factorial(n):
 
 
 def pascal_triangle(n):
-    mylist = [[]]
+    mylist = []
     if n <= 0:
         return mylist
     mylist = []
