@@ -5,6 +5,9 @@ This is a function to return a pascals triangle
 
 
 def factorial(n):
+    """
+    This gives the factorial of a number
+    """
     if n < 2:
         return 1
     else:
@@ -12,6 +15,9 @@ def factorial(n):
 
 
 def pascal_triangle(n):
+    """
+    This gives a pascals triangle
+    """
     mylist = []
     if n <= 0:
         return mylist
