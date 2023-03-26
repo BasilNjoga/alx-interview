@@ -1,1 +1,4 @@
-This is a repository on making changes as used in alx
+
+## 0x08. Making Change
+Algorithm Python
+
